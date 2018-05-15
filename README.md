@@ -1,12 +1,13 @@
 # **Fingerprint Disabler**
 
 ## Description
-This Magisk module disables the fingerprint scanner on Xiaomi Redmi Note 4X. The module does not delete files, but only changes the permissions. Supports both stock and custom ROMs, as well as Treble-based ROMs.
+This Magisk module disables the fingerprint scanner on Xiaomi Redmi Note 4. The module does not delete files, but only changes the permissions. Supports both stock and custom ROMs, as well as Treble-based ROMs.
 
 ## Changelog
 This is [not my own work](https://4pda.ru/forum/index.php?showtopic=809215&st=540#entry67065799). I just ported it to Magisk.
 
 ## Requirements
+- Xiaomi Redmi Note 4
 - Magisk v15+
 
 ## Links

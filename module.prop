@@ -3,5 +3,5 @@ name=Fingerprint Disabler
 version=v1.0
 versionCode=1
 author=podobreev.seva, dartraiden
-description=Disable fingerprint scanner on Xiaomi Redmi Note 4X. Supports both stock and custom ROMs, as well as Treble-based ROMs
+description=Disable fingerprint scanner on Xiaomi Redmi Note 4. Supports both stock and custom ROMs, as well as Treble-based ROMs
 minMagisk=1500
